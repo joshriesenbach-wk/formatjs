@@ -121,7 +121,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:formatjs/formatjs.git"
+    "url": "git@github.com:formatjs/formatjs.git",
+    "directory": "packages/react-intl"
   },
   "main": "index.js",
   "module": "lib/index.js",
